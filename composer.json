@@ -1,5 +1,5 @@
 {
-    "name": "s1lviu/messenger",
+    "name": "DevRevolution/messenger",
     "description": "Simple user messaging tool for Laravel",
     "keywords": ["laravel", "messenger", "messaging", "user messaging"],
     "license": "MIT",
